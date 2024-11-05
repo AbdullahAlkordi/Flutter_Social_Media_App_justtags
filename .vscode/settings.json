@@ -1,0 +1,20 @@
+{
+    "genieai.promptPrefix.customPrompt1-enabled": true,
+    "codesnap.showWindowTitle": true,
+    "genieai.telemetry.disable": false,
+    "genieai.response.showNotification": true,
+    "application.experimental.rendererProfiling": true,
+    "genieai.enableConversationHistory": true,
+    "window.autoDetectColorScheme": false,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "diffEditor.hideUnchangedRegions.enabled": false,
+    "editor.minimap.autohide": false,
+    "editor.suggest.showIcons": true,
+    "notebook.diff.ignoreOutputs": true,
+    "flutter-files.menu.model": true,
+    "flutter-files.menu.provider": true,
+    "flutter-files.menu.repository": true,
+    "accessibility.hideAccessibleView": true
+}
