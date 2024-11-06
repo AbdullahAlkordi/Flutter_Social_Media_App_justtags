@@ -1,4 +1,4 @@
-# justtags
+# Just Tags Social Media Application 
 
 A new Flutter project.
 
